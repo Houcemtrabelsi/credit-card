@@ -1,7 +1,92 @@
-.App {
+
+
+.titre1{
+  font-size: 60px;
+  color: white;
+  padding: 30px 0px 0% 50%
+
+
+}
+.puce{
+  width: 110px;
+  margin-left: 10%;
+  margin-bottom: 1%;
+  padding-top: 10%;
+}
+.numcarte{
+  width: 550px;
+  font-size: 55px;
+  color: #865d05;
+  margin-left: 16%;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  background-color: rgba(182, 179, 25, 0.274);
   text-align: center;
+  text-justify: inter
+
+}
+.num{
+  font-size: 55px;
+  color: #ffffff;
+  margin-left: 45%;
+  margin-bottom: 1%;
+  margin-top: 5%
+}
+.text1{
+  font-size: 30px;
+  color: #ffffff;
+  margin-left: 45%;
+margin-top: 1%
+}
+.bloc1{
+  display: flex;
+
+}
+.partie1{
+
+color : white;
+}
+.p1{
+  margin-bottom: 0%;
+  margin-top: 65%
+
+}
+.p2{
+  margin-top: 1%
+}
+.p3{
+  margin-top: 1%;
+  padding-left: 20%;
+  margin-bottom: 0%;
+  color: #ffffff;
+}
+.p4{
+  padding-left: 18%;
+  margin-top: 1%;
+  color: #ffffff;
+  font-size: 240%
 }
 
+.bloc2{
+  display: flex;
+  padding-left: 45%
+}
+.total{
+  display: flex;
+
+}
+.visapart{
+  padding-left: 13%;
+ 
+}
+.visalogo{
+  width: 110px;
+  height: 180px;
+  padding-top: 20%;
+    padding-left: 34%;
+
+
+}
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 40vmin;
